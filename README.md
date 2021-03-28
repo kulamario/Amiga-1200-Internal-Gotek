@@ -29,8 +29,7 @@ Remove the jumper from Boot_1 and put on DS0 if you want Gotek as DF0 drive or p
 
 The station, as I mentioned at the beginning, has a front panel as it is not finished yet, it has not been made available 
 
-![Untitled](https://user-images.githubusercontent.com/62314932/112740059-875c9480-8f71-11eb-8b17-b5979e856456.png)
-
+![165444419_222351239674462_3815302755646016310_n](https://user-images.githubusercontent.com/62314932/112740088-e15d5a00-8f71-11eb-86e1-806de4366f71.jpg)
 
 The panel has a 0.96 "OLED display.
 
