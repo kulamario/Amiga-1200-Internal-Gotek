@@ -18,6 +18,13 @@ BOOT_1 connect to GND
 
 ![programowanie serial](https://user-images.githubusercontent.com/62314932/112739226-5a58b380-8f6a-11eb-8c31-2625225f94e0.jpg)
 
+After programming the station, the jumpers must be put in the device operating mode 
+
+BOOT_0 connect to GND
+
+Remove the jumper from Boot_1 and put on DS0 if you want Gotek as DF0 drive or put on DS1 if you want DF1 as drive 
+
+![DF0](https://user-images.githubusercontent.com/62314932/112739669-0bad1880-8f6e-11eb-8172-d3f564cc29a0.jpg)
 
 
 
