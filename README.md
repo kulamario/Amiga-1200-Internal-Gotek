@@ -28,6 +28,7 @@ Remove the jumper from Boot_1 and put on DS0 if you want Gotek as DF0 drive or p
 ![DF1](https://user-images.githubusercontent.com/62314932/112739754-c6d5b180-8f6e-11eb-9dba-cb3c79aa87db.jpg)
 
 The station, as I mentioned at the beginning, has a front panel as it is not finished yet, it has not been made available 
+
 ![163786395_772391053654125_3736442756711476937_n](https://user-images.githubusercontent.com/62314932/112739800-4794ad80-8f6f-11eb-9271-635a2e9271af.jpg)
 
 
