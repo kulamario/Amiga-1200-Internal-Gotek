@@ -13,6 +13,7 @@ We can also program as standard gotek from ebay via serial interface TX and RX
 To put Stm32 into serial programming state we need to change the position of the jumpers 
 
 BOOT_0 connect to 3V3
+
 BOOT_1 connect to GND
 
 ![programowanie serial](https://user-images.githubusercontent.com/62314932/112739226-5a58b380-8f6a-11eb-8c31-2625225f94e0.jpg)
