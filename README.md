@@ -25,6 +25,8 @@ BOOT_0 connect to GND
 Remove the jumper from Boot_1 and put on DS0 if you want Gotek as DF0 drive or put on DS1 if you want DF1 as drive 
 
 ![DF0](https://user-images.githubusercontent.com/62314932/112739669-0bad1880-8f6e-11eb-8172-d3f564cc29a0.jpg)
+![DF1](https://user-images.githubusercontent.com/62314932/112739754-c6d5b180-8f6e-11eb-9dba-cb3c79aa87db.jpg)
+
 
 
 
