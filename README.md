@@ -1,4 +1,3 @@
-![gotek amiga](https://user-images.githubusercontent.com/62314932/116167793-f22bf780-a6f8-11eb-9666-f4a8d5ddd459.jpg)
 
 ![161749018_282783820082534_115154827738176981_n](https://user-images.githubusercontent.com/62314932/112739017-1365c080-8f60-11eb-9d14-461a78fd183e.jpg)
 
@@ -29,7 +28,7 @@ Remove the jumper from Boot_1 and put on DS0 if you want Gotek as DF0 drive or p
 ![DF1](https://user-images.githubusercontent.com/62314932/112739754-c6d5b180-8f6e-11eb-9dba-cb3c79aa87db.jpg)
 
 The station, as I mentioned at the beginning, has a front panel
-
+![gotek amiga](https://user-images.githubusercontent.com/62314932/116167793-f22bf780-a6f8-11eb-9666-f4a8d5ddd459.jpg)
 ![165444419_222351239674462_3815302755646016310_n](https://user-images.githubusercontent.com/62314932/112740088-e15d5a00-8f71-11eb-86e1-806de4366f71.jpg)
 
 The panel has a 0.96 "OLED display.
