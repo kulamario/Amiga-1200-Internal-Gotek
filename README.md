@@ -1,3 +1,4 @@
+![gotek amiga](https://user-images.githubusercontent.com/62314932/116167793-f22bf780-a6f8-11eb-9666-f4a8d5ddd459.jpg)
 
 ![161749018_282783820082534_115154827738176981_n](https://user-images.githubusercontent.com/62314932/112739017-1365c080-8f60-11eb-9d14-461a78fd183e.jpg)
 
